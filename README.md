@@ -1,4 +1,13 @@
 
+<!-- ### Pages, Links -->
+[Blog - Zenn](https://zenn.dev/5ei74r0) &nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://5ei74R0.github.io/daily_log_publish/)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ei74R0&langs_count=8&layout=compact&theme=prussian&hide=jupyter%20notebook,css,html)
+<br>
+Ignores notebook, css, and html
+<br>
+<br>
 
 <!--
 **5ei74R0/5ei74R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
