@@ -1,3 +1,4 @@
+A student / Machine Learning; V&L, contrastive learning, ... / Algorithm & Data Structure / ...
 
 <!-- ### Pages, Links -->
 [Blog - Zenn](https://zenn.dev/5ei74r0) &nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://5ei74R0.github.io/daily_log_publish/)
