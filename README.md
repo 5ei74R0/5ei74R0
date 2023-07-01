@@ -3,11 +3,11 @@ Portfolio is out! (pre-release @April 16th, 2023): [5ei74R0.io](https://5ei74r0.
 <br /><br />
 
 Interested in:<br />
-AI/ML (V+L, contrastive learning, etc.) / Algorithm & Data Structure / ...
+AI/ML (V+L, LLM, contrastive learning, etc.) / Algorithms & Data Structures / ...
 
 <!-- ### Pages, Links -->
 See also,<br />
-[Blog - Zenn](https://zenn.dev/5ei74r0) &nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://5ei74R0.github.io/daily_log_publish/)
+[Blog - Zenn](https://zenn.dev/5ei74r0) &nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://5ei74R0.github.io/daily_log_publish/) &nbsp;&nbsp;&nbsp; [Journal Club](https://speakerdeck.com/keio_smilab)
 <br /><br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ei74R0&langs_count=8&layout=compact&theme=prussian&hide=jupyter%20notebook,css,html)
