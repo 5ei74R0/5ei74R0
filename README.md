@@ -1,5 +1,5 @@
 
-Portfolio is out! (pre-release @April 16th, 2023): [5ei74R0.io](https://5ei74r0.github.io/5ei74R0.io/)
+Portfolio is out! (Update @October 17th, 2023): [5ei74R0.io](https://5ei74r0.github.io/5ei74R0.io/)
 <br /><br />
 
 Interested in:<br />
